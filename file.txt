@@ -1,0 +1,21 @@
+this command ls found for look the files
+this command ls -l fonund for list files
+pwd found for look the route 
+ls -lh found for to see have much weight the files in kb..mb
+cd found to see move between directories
+mv found for move in file in a directory and for move more directories the used brackets
+cp found for copy in file to other file
+ls -lR found for look and list the directories and subdiretories
+cd - to go back in the directory behind
+J
+U
+A
+N
+G
+O
+N
+Z
+A
+L
+E
+Z 
